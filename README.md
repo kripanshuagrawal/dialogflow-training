@@ -5,3 +5,6 @@
 2. [Install ngrok](https://ngrok.com/download) on your laptop.
 3. Go to [Dialogflow Console](https://dialogflow.cloud.google.com/)
 4. Sign in with your gmail account.
+
+# Weather API Key Retrieval
+Get the WWO weather API Key from [WWO Website](https://www.worldweatheronline.com/weather-api/my/)
